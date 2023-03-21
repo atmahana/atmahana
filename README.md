@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Zubair Adham</h1>  
-<h3 align="center">A passionate full-stack developer from Malaysia</h3>
+<h3 align="center">An avid learner and passionate full-stack developer from Malaysia</h3>
 
 🌱I'm currently learning JavaScript for full-stack development.
 #
