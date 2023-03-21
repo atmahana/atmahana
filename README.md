@@ -3,6 +3,7 @@
 <h3 align="center">An avid learner and passionate full-stack developer from Malaysia</h3>
 
 🔭 I'm working on few Frontend Mentor Challenges to improve my frontend skills.
+
 🌱 I'm currently learning JavaScript for full-stack development.
 #
 # 💻 Tech Stack:
