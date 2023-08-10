@@ -18,9 +18,11 @@ Let's connect!
 
 <table>
 <tr >
-<td valign="top">
+<td align="top">
 
-<details><summary>💻 Tech Stacks</summary>
+<details><summary>💻 Crafting Tools</summary>
+
+<div align="center">
 
 # Frontend
  
@@ -33,6 +35,8 @@ Let's connect!
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+ 
+</div>
 
 </details>
 
@@ -55,6 +59,31 @@ Let's connect!
 
 </td>
 </tr>
+<tr>
+<td align="top">
+
+<details><summary>🔮 Creations</summary>
+
+<div align="center">
+ 
+# Projects that I am proud of.
+
+<em>It ain't much, but it's honest work.</em> 
+
+----
+<h3>URL Shortener</h3>
+
+[![shortly-url-fem-card](https://github-readme-stats.vercel.app/api/pin/?username=atmahana&repo=shortly-url-fem&theme=radical&hide_border=true)](https://github.com/atmahana/shortly-url-fem)
+
+<h3>IP Address Tracker</h3>
+
+[![ip-address-tracker-fem-card](https://github-readme-stats.vercel.app/api/pin/?username=atmahana&repo=ip-address-tracker-fem&theme=radical&hide_border=true)](https://github.com/atmahana/ip-address-tracker-fem)
+
+</div>
+</details>
+
+</td>
+</tr>
 </table>
 
 </div>
@@ -67,5 +96,6 @@ Let's connect!
 
 ---
 
-<h3 align="center">Thank for visiting my profile! 😄</h3>
+<h3 align="center">Thank you for visiting my profile! 😄</h3>
 
+<!-- Inspired by @thedylone GitHub profile, go check him out https://github.com/thedylone -->
