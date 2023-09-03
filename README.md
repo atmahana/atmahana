@@ -1,101 +1,69 @@
-<div align="center">
-
-[![gif](kakashi_wave.gif)](mailto:zubairadham.ar@gmail.com)
-
-#  Hello! I am Zubair Adham.
-
-### I am a Computer Science graduate. My main interest is on web development. I love crafting for frontend as much as I love building custom keyboards. Though my forte is on frontend, I also can code for the backend.
----
-Let's connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zubair-adham) 
-
-</div> 
-
----
+<p align="center">(oh, a visitor)</p>
 
 <div align="center">
-
-<table>
-<tr >
-<td align="top">
-
-<details><summary>💻 Crafting Tools</summary>
-
-<div align="center">
-
-# Frontend
- 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-# Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
- 
+  <img height="130" src="https://cdn.betterttv.net/emote/5e95ba3d7e090362f8b0399f/3x.webp"  />
 </div>
 
-</details>
-
-</td>
-</tr>
-<tr>
-<td align="top">
-
-<details><summary>📊 GitHub Stats</summary>
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=atmahana&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=atmahana&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-</div>
-
-</details>
-
-</td>
-</tr>
-<tr>
-<td align="top">
-
-<details><summary>🔮 Creations</summary>
-
-<div align="center">
- 
-# Projects that I am proud of.
-
-<em>It ain't much, but it's honest work.</em> 
-
-----
-<h3>URL Shortener</h3>
-
-[![shortly-url-fem-card](https://github-readme-stats.vercel.app/api/pin/?username=atmahana&repo=shortly-url-fem&theme=radical&hide_border=true)](https://github.com/atmahana/shortly-url-fem)
-
-<h3>IP Address Tracker</h3>
-
-[![ip-address-tracker-fem-card](https://github-readme-stats.vercel.app/api/pin/?username=atmahana&repo=ip-address-tracker-fem&theme=radical&hide_border=true)](https://github.com/atmahana/ip-address-tracker-fem)
-
-</div>
-</details>
-
-</td>
-</tr>
-</table>
-
+ <img src="greet.svg" height="100" />
 </div>
 
 <div align="center">
  
+Self-taught `JavaScript/TypeScript` enjoyer<br/>Love crafting for frontend as much as I <br/> love building custom keyboards ⌨<br/>Writes ramen backend code 🍜
+
+</div>
+
+
+<p align="center">Let's connect</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+</div>
+
+#
+
+<div align="center">
+ 
+### Tools 
+<br/>
+
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
+
+</div>
+
+#
+
+<div align="center">
+ 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=atmahana&theme=tokyonight&hide_border=false&langs_count=4&include_all_commits=false&count_private=true&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=atmahana&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&hide_title=true&hide_rank=true)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=atmahana&theme=tokyonight&hide_border=false)<br/>
- 
+
 </div>
 
----
+#
 
-<h3 align="center">Thank you for visiting my profile! 😄</h3>
+<p align="center">Thank you for visiting my profile!</p>
 
-<!-- Inspired by @thedylone GitHub profile, go check him out https://github.com/thedylone -->
+<div align="center">
+  <img height="130" src="https://cdn.betterttv.net/emote/5f6b6da762f49f0b2162e180/3x.webp"  />
+</div>
