@@ -1,0 +1,48 @@
+<svg fill="none" viewBox="0 0 800 400" width="400" height="200"
+  xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+				@keyframes fadeIn {
+					0% {
+						opacity: 0;
+					}
+					66% {
+						opacity: 0;
+					}
+					100% {
+						opacity: 1;
+					}
+				}
+
+				.container {
+					font-family:
+						system-ui,
+						-apple-system,
+						'Segoe UI',
+						Roboto,
+						Helvetica,
+						Arial,
+						sans-serif,
+						'Apple Color Emoji',
+						'Segoe UI Emoji';
+					color: white;
+					text-align: center;
+          background-color: transparent;
+				}
+
+				h1 {
+					font-size: 44px;
+					letter-spacing: 3.5px;
+          word-spacing: 3px;
+          color: black;
+					animation: 2.6s ease 0s normal forwards 1 fadeIn;
+				}
+
+      </style>
+      <div class="container">
+        <h1>Hi, I'm Zubair</h1>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
