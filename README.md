@@ -14,12 +14,12 @@ Self-taught `JavaScript/TypeScript` enjoyer<br/>Love crafting for frontend as mu
 
 </div>
 
-
-<p align="center">Let's connect</p>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-</div>
+#
+  
+#### You can find me on
+- [CodePen](https://codepen.io/atmahana) - I made some cool UI stuffs here!
+- [Frontend Mentor](https://www.frontendmentor.io/profile/atmahana) - I create and review awesome front-end projects here!
+- [Linkedin](https://www.linkedin.com/in/zubair-adham/) - Yes
 
 #
 
