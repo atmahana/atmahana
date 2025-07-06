@@ -10,16 +10,16 @@
 
 <div align="center">
  
-Self-taught `JavaScript/TypeScript` enjoyer<br/>Love crafting for frontend as much as I <br/> love building custom keyboards ⌨<br/>Writes ramen backend code 🍜
+`JavaScript/TypeScript` enjoyer </br> Occasionally writes ramen PHP code 🍜
 
 </div>
 
 #
   
 #### You can find me on
-- [CodePen](https://codepen.io/atmahana) - I made some cool UI stuffs here!
 - [Frontend Mentor](https://www.frontendmentor.io/profile/atmahana) - I create and review awesome front-end projects here!
-- [Linkedin](https://www.linkedin.com/in/zubair-adham/) - Yes
+- [CodePen](https://codepen.io/atmahana) - I made some cool UI stuffs here!
+- [Linkedin](https://www.linkedin.com/in/zubair-adham/) - Yes!!
 
 #
 
@@ -34,19 +34,12 @@ Self-taught `JavaScript/TypeScript` enjoyer<br/>Love crafting for frontend as mu
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
 
 </div>
 
